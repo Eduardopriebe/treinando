@@ -1,0 +1,16 @@
+{
+    "nTask": "Estudar JavaScript",
+
+    "dup": {
+            "name": "Estudar TypeScript",
+            "is_done": false
+        },
+    "atu": {
+            "name": "Estudar Python",
+            "is_done": false
+        },
+    "del": {
+            "name": "Estudar C#",
+            "is_done": false
+        }
+}
